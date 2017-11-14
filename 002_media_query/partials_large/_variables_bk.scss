@@ -1,0 +1,44 @@
+$background: #f9f9f9;
+
+// colors
+
+$color-1: #3d3536; // brown *identity_color
+$color-2: #99a478; // green dark
+$color-3: #b4d7a8; // green light
+$color-4: #ffffff; // white
+$color-5: #7291d8; // title blue
+$color-6: #2C333A; // 紺
+
+$color-7: #f5f5f5; // pale white gray
+$color-8: #f7f7f7; // pale white gray2
+$color-9: #e9e7ea; // gray
+$color-10: #428bca; // blue
+$color-11: #f8f5f0; // ベージュ
+$color-12: #edeff0; // Porcelain
+$color-13: #2c3f4c; // Pickled Bluewood
+$color-14: #96c03d; // Sushi
+
+$color-15: #079292; // sea green *identity_color
+$color-16: #337ab7; // 登録 blue *identity_color
+$color-17: #222222; // カレンダーページ
+$color-18: #444444; // グレイ
+//header height
+
+$header-height-S: 50px;
+$header-height-M: 70px;
+
+// fonts 
+$primary-font: 'Roboto', sans-serif;
+
+//z-index - order the elements from the lowest z-index(left) to the highest(right)
+
+$main-elements: main-content, navigation;
+$bg-elements: fixed-bg, scrolling-bg;
+
+$header-zindex: 2;
+$modal-zindex: 3;
+
+
+$main-text: #505260;
+
+$tab-filter-height: 50px;
